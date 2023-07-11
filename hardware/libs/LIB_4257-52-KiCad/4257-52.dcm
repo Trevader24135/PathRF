@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4257-52
+D IC RF SWITCH SPDT 50 OHM 20-QFN
+K
+F http://www.psemi.com/pdf/datasheets/pe4257ds.pdf
+$ENDCMP
+#
+#End Doc Library
